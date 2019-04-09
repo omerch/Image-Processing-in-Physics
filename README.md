@@ -16,25 +16,25 @@ Essential tools and expressions used in imaging\
 Broad rather than in-depth\
 Focused on underlying principles\
 Few rigorous mathematical derivations\
-Oriented towards practical implementations\
+Oriented towards practical implementations
 
 ## Course content
-### A. Basics of Image Processing\
+### A. Basics of Image Processing
 A.1 Image processing in spatial domain\
 A.2 Image processing in Fourier domain\
 A.3 Sampling, interpolation and pixel representations\
-A.4 Segmentation\
+A.4 Segmentation
 
-### B.	Wave	optics	and	instrumentation\
+### B.	Wave	optics	and	instrumentation
 B.1	Detectors	&	noise\
 B.2	Wave	propagation\
 B.3	Phase	retrieval\
-B.4	Grating-based	imaging\
+B.4	Grating-based	imaging
 
-### C.	Abstract	algorithms	and	optimization\
+### C.	Abstract	algorithms	and	optimization
 C.1	Tomography\
-C.2	Least	squares	optimization\
+C.2	Least	squares	optimization
 C.3	Wavelets\
 
-#### Exercise Tutorials\
-Hands-on computer exercises on the topics covered in class in Python\
+#### Exercise Tutorials
+Hands-on computer exercises on the topics covered in class in Python
