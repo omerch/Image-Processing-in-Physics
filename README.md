@@ -2,7 +2,7 @@
 
 Graduate Level Course of Technical University of Munich
 
-# Course Description:
+## Course Description:
 
 Course is in English
 2 hours/week lecture, 1 hour/week tutorial
@@ -18,7 +18,7 @@ Focused on underlying principles
 Few rigorous mathematical derivations
 Oriented towards practical implementations
 
-# Course content
+## Course content
 A. Basics of Image Processing
 A.1 Image processing in spatial domain
 A.2 Image processing in Fourier domain
