@@ -1,8 +1,8 @@
 # Image-Processing-in-Physics
 
-#Graduate Level Course of Technical University of Munich
+Graduate Level Course of Technical University of Munich
 
-About this course
+About this course:
 Course is in English
 2 hours/week lecture, 1 hour/week tutorial
 Computer exercises are given as homework
