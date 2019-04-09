@@ -1,6 +1,6 @@
-Image-Processing-In-Physics
+#Image-Processing-In-Physics
 
-Graduate Level Course of Technical University of Munich
+##Graduate Level Course of Technical University of Munich
 
 About this course
 Course is in English
