@@ -33,8 +33,8 @@ B.4	Grating-based	imaging
 
 ### C.	Abstract	algorithms	and	optimization
 C.1	Tomography\
-C.2	Least	squares	optimization
-C.3	Wavelets\
+C.2	Least	squares	optimization\
+C.3	Wavelets
 
 #### Exercise Tutorials
 Hands-on computer exercises on the topics covered in class in Python
